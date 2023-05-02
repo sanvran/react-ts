@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Todos from ".";
 import List from "./List";
 
 const AddTodo = () => {
